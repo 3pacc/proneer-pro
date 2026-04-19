@@ -1,4 +1,4 @@
-# Pro Modular Audio Player - Web Components Suite
+# Pro Audio Player - Web Components
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 ![Web Components](https://img.shields.io/badge/Web%20Components-v3-green)
