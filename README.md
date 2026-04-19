@@ -119,7 +119,3 @@ MIT License - Libre d'utilisation et modification.
 - Firefox 76+ (AudioWorklet)
 - Safari 14.1+ (AudioWorklet)
 - Edge 79+
-
----
-
-Développé avec ❤️ et Web Components
